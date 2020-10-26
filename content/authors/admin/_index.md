@@ -29,15 +29,12 @@ education:
     - course: PhD in Economics
       institution: Universitat Pompeu Fabra
       year: 2023
-    - course: Master of Research (MRes) in Economics
+    - course: MRes in Economics
       institution: Universitat Pompeu Fabra
       year: 2020
     - course: MSc. in Economics
       institution: Barcelona GSE
       year: 2019
-    - course: MA in Economics
-      institution: Universidad del Pacífico
-      year: 2015
     - course: BSc. in Economics
       institution: Universidad del Pacífico
       year: 2014
