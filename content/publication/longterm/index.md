@@ -1,8 +1,9 @@
 ---
-title: "An example conference paper"
+title: "The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans"
 authors:
 - admin
-- Robert Ford
+- Victor Matienzo
+- Alejandra Olivares
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -13,16 +14,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD). In our estimates, we treat households and firms separately and include variables that reflect repayment ability, debtor characteristics, loan conditions, and macroeconomic factors as controls. Our dataset includes more than twenty-six million loans granted by Peruvian financial institutions for the period 2012-2016. Using a set of logit models, we find evidence of a positive correlation between loan maturity and the PD for firms and households. Overall, credit risk drivers appear as heterogeneous when different loan maturities are considered. Furthermore, our results suggest that the impact of collateral on the PD is negative for firm loans, but positive for household loans, while the number of bank-debtor relationships has a positive impact among all models estimated. These findings can ultimately result in policy actions to mitigate the scarcity of long-term loans in the country
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD).
 
 tags:
 - Source Themes
