@@ -22,19 +22,25 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Universitat Pompeu Fabra
+    url: https://www.upf.edu/home
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Universitat Pompeu Fabra
+      year: 2023
+    - course: Master of Research (MRes) in Economics
+      institution: Universitat Pompeu Fabra
+      year: 2020
+    - course: MSc. in Economics
+      institution: Barcelona GSE
+      year: 2019
+    - course: MA in Economics
+      institution: Universidad del Pacífico
+      year: 2015
+    - course: BSc. in Economics
+      institution: Universidad del Pacífico
+      year: 2014
 email: diego.bohorquez@upf.edu
 superuser: true
 user_groups:
