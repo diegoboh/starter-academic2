@@ -16,10 +16,10 @@ social:
     link: https://twitter.com/diegoebm
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=V7R6NRYAAAAJ
+    link: ''
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: ''
 organizations:
   - name: Universitat Pompeu Fabra
     url: https://www.upf.edu/home
