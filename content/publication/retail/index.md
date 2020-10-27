@@ -14,10 +14,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: SBS Working Paper DT-002-2016
+publication: Journal of Financial Issues SBS Volume XII N1 2016 
 publication_short: In *SBS Working Paper DT-002-2016*
 
 abstract: Given the recent massive introduction of financial retail agents across districts over the last years, we adopt a Fixed-Effects (FE) strategy to intend to estimate the effects of the access to financial services on household expenditure in Peru. We use the household panel data 2007-2011 from the Peruvian Household Survey (ENAHO) and the information of the number of retail agents available in the Peruvian districts gathered by the Financial Stability Authority of Peru (SBS). Our estimates suggest that the introduction of retail agents is associated with a reduction of total household expenditure and transportation costs. Moreover, we find evidence of a non-linear relationship between the number of retail agents in a district and household expenditure. Regarding to rural households, our results are not conclusive due to the still low coverage of the financial system in this area and sample size limitations.
@@ -32,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.sbs.gob.pe/Portals/0/jer/ddt_ano2016/20160505_SBS-DT-002-2016.pdf
+url_pdf: https://www.sbs.gob.pe/Portals/0/jer/rebper_2016_vol_xii/20170103_Aparicio-Bohorquez-Huayta.PDF
 url_code: ''
 url_dataset: ''
 url_poster: ''
