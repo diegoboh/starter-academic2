@@ -33,11 +33,11 @@ links:
 #- name: Custom Link
 #url: https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620
 url_pdf: https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620
-url_code: '#'
-url_dataset: 'files/long-slides.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: "files/long-slides.pdf"
+url_slides: 'files/long-slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -61,7 +61,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% alert note %}}
