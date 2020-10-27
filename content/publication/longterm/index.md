@@ -27,7 +27,7 @@ summary: This paper analyzes the impact of a limited set of credit risk drivers 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 #- name: Custom Link
