@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: SBS Working Paper DT-005-2016
 publication_short: In *SBS Working Paper DT-005-2016*
 
-abstract: This paper explores the relationship between the financial cycle and the economic activity in the Peruvian context for the period 1998-2015 using a two-regime logistic smooth transition autoregressive model (L-STAR model).
+abstract: This paper explores the relationship between the financial cycle and the economic activity in the Peruvian context for the period 1998-2015 using a two-regime logistic smooth transition autoregressive model (L-STAR model). The results suggest that the total credit portfolio is strongly pro-cyclical and that this relationship is nonlinear. This evidence supports the hypothesis that the agents participating in the Peruvian financial system (supply and demand of credit) are more enthusiastic during periods of sustained economic growth, amplifying the economic cycle. The results are robust on the use of different specifications and different dependent and transition variables.
 
 # Summary. An optional shortened abstract.
-summary: This paper explores the relationship between the financial cycle and the economic activity in the Peruvian context for the period 1998-2015 using a two-regime logistic smooth transition autoregressive model (L-STAR model). The results suggest that the total credit portfolio is strongly pro-cyclical and that this relationship is nonlinear. This evidence supports the hypothesis that the agents participating in the Peruvian financial system (supply and demand of credit) are more enthusiastic during periods of sustained economic growth, amplifying the economic cycle. The results are robust on the use of different specifications and different dependent and transition variables.
+summary: This paper explores the relationship between the financial cycle and the economic activity in the Peruvian context for the period 1998-2015 using a two-regime logistic smooth transition autoregressive model (L-STAR model).
 
 tags:
 - Source Themes
