@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Working Paper
-publication_short: In *STC*
+publication_short: *SBS Working Paper DT-003-2017*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -30,16 +30,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: 'files/long-slides.pdf'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
