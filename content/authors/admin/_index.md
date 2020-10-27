@@ -2,8 +2,7 @@
 title: Diego Bohorquez
 role: PhD student in Economics
 avatar_filename: dsc_0012-50x50-1-.jpg
-bio: My research interests include international macroeconomics, macro-finance
-  and financial regulation.
+bio:
 interests:
   - International macroeconomics
   - Macro-finance
@@ -17,7 +16,7 @@ social:
     link: https://twitter.com/diegoebm
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=V7R6NRYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
