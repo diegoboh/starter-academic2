@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: SBS Working Paper DT-003-2017
-publication_short: In *SBS Working Paper DT-003-2017*
+publication: SBS Working Paper DT-002-2016
+publication_short: In *SBS Working Paper DT-002-2016*
 
-abstract: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD). In our estimates, we treat households and firms separately and include variables that reflect repayment ability, debtor characteristics, loan conditions, and macroeconomic factors as controls. Our dataset includes more than twenty-six million loans granted by Peruvian financial institutions for the period 2012-2016. Using a set of logit models, we find evidence of a positive correlation between loan maturity and the PD for firms and households. Overall, credit risk drivers appear as heterogeneous when different loan maturities are considered. Furthermore, our results suggest that the impact of collateral on the PD is negative for firm loans, but positive for household loans, while the number of bank-debtor relationships has a positive impact among all models estimated. These findings can ultimately result in policy actions to mitigate the scarcity of long-term loans in the country.
+abstract: Given the recent massive introduction of financial retail agents across districts over the last years, we adopt a Fixed-Effects (FE) strategy to intend to estimate the effects of the access to financial services on household expenditure in Peru. We use the household panel data 2007-2011 from the Peruvian Household Survey (ENAHO) and the information of the number of retail agents available in the Peruvian districts gathered by the Financial Stability Authority of Peru (SBS). Our estimates suggest that the introduction of retail agents is associated with a reduction of total household expenditure and transportation costs. Moreover, we find evidence of a non-linear relationship between the number of retail agents in a district and household expenditure. Regarding to rural households, our results are not conclusive due to the still low coverage of the financial system in this area and sample size limitations.
 
 # Summary. An optional shortened abstract.
-summary: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD).
+summary: Given the recent massive introduction of financial retail agents across districts over the last years, we adopt a Fixed-Effects (FE) strategy to intend to estimate the effects of the access to financial services on household expenditure in Peru.
 
 tags:
 - Source Themes
@@ -32,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620
+url_pdf: https://www.sbs.gob.pe/Portals/0/jer/ddt_ano2016/20160505_SBS-DT-002-2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
