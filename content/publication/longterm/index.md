@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: STD
-publication_short: In *STD*
+publication_short: In *SBS Working Paper DT-003-2017*
 
 abstract: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD). In our estimates, we treat households and firms separately and include variables that reflect repayment ability, debtor characteristics, loan conditions, and macroeconomic factors as controls. Our dataset includes more than twenty-six million loans granted by Peruvian financial institutions for the period 2012-2016. Using a set of logit models, we find evidence of a positive correlation between loan maturity and the PD for firms and households. Overall, credit risk drivers appear as heterogeneous when different loan maturities are considered. Furthermore, our results suggest that the impact of collateral on the PD is negative for firm loans, but positive for household loans, while the number of bank-debtor relationships has a positive impact among all models estimated. These findings can ultimately result in policy actions to mitigate the scarcity of long-term loans in the country.
 
