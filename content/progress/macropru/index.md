@@ -1,9 +1,7 @@
 ---
-title: "Macropru"
+title: "Macroprudential rules in a small open economy: a DSGE approach"
 authors:
 - admin
-- Victor Matienzo
-- Alejandra Olivares
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -20,10 +18,11 @@ publication_types: ["3"]
 publication: SBS Working Paper DT-003-2017
 publication_short: In *SBS Working Paper DT-003-2017*
 
-abstract: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD). In our estimates, we treat households and firms separately and include variables that reflect repayment ability, debtor characteristics, loan conditions, and macroeconomic factors as controls. Our dataset includes more than twenty-six million loans granted by Peruvian financial institutions for the period 2012-2016. Using a set of logit models, we find evidence of a positive correlation between loan maturity and the PD for firms and households. Overall, credit risk drivers appear as heterogeneous when different loan maturities are considered. Furthermore, our results suggest that the impact of collateral on the PD is negative for firm loans, but positive for household loans, while the number of bank-debtor relationships has a positive impact among all models estimated. These findings can ultimately result in policy actions to mitigate the scarcity of long-term loans in the country.
+abstract: After the financial crisis, policy makers are more aware that in order to ensure macroeconomic stability, financial stability must be preserved. In the past decade, new prudential regulation has been established focusing especially on strengthen bank capital and liquidity requirements. However, there is an active debate on the proper use of macroprudential instruments, and countries around the world tend to use them in different ways.
+This paper analyses the interaction between macroprudential instruments using a dynamic stochastic general equilibrium (DSGE) for a small-openeconomy with financial and nominal frictions. Using different objectives for the monetary authority, we try to find the optimal policy rules involving dynamic capital and reserve requirements. Given the frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions is substantial, specially if financial stability is included as an objective of the Central Bank. Regarding the differences between the two instruments, the most important is that on the contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Finally, in the scenario of a financial stability objective and strict separation of tasks by instrument, reserve requirements provide a slightly better response to the exogenous shocks in the economy than capital requirements.
 
 # Summary. An optional shortened abstract.
-summary: This paper analyzes the impact of a limited set of credit risk drivers (collateral and number of bank-debtor relationships) on long-term loans, and evaluates the effect of loan maturity on the probability of default (PD).
+summary: This paper analyses the interaction between macroprudential instruments using a dynamic stochastic general equilibrium (DSGE) for a small-openeconomy with financial and nominal frictions. Using different objectives for the monetary authority, we try to find the optimal policy rules involving dynamic capital and reserve requirements.
 
 tags:
 - Source Themes
