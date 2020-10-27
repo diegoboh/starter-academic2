@@ -1,5 +1,5 @@
 ---
-title: "The sssimplications of loan maturity on the probability of default: evidence from Peruvian long-term loans"
+title: "The implications of loan maturity on the probability of default: evidence from Peruvian long-term loans"
 authors:
 - admin
 - Victor Matienzo
