@@ -16,7 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: SBS Working Paper DT-003-2017
-publication_short: In *SBS Working Paper DT-003-2017*
+publication_short: In *d*
 
 abstract: After the financial crisis, policy makers are more aware that in order to ensure macroeconomic stability, financial stability must be preserved. In the past decade, new prudential regulation has been established focusing especially on strengthen bank capital and liquidity requirements. However, there is an active debate on the proper use of macroprudential instruments, and countries around the world tend to use them in different ways. This paper analyses the interaction between macroprudential instruments using a dynamic stochastic general equilibrium (DSGE) for a small-openeconomy with financial and nominal frictions. Using different objectives for the monetary authority, we try to find the optimal policy rules involving dynamic capital and reserve requirements. Given the frictions present in the model, the gains from adapting reserve and capital requirements to economic conditions is substantial, specially if financial stability is included as an objective of the Central Bank. Regarding the differences between the two instruments, the most important is that on the contrary to capital requirements, an increase in reserve requirements leads to higher inflation and has an ambiguous impact on output. Finally, in the scenario of a financial stability objective and strict separation of tasks by instrument, reserve requirements provide a slightly better response to the exogenous shocks in the economy than capital requirements.
 
@@ -30,12 +30,12 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.sbs.gob.pe/Portals/0/jer/DDT_ANO2017/SBS-DT-003-2017.pdf?ver=2018-02-08-124240-620
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'files/long-slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
