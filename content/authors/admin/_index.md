@@ -44,4 +44,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am a PhD student in Economics at [Universitat Pompeu Fabra](https://www.upf.edu/home) interested in international macroeconomics, macro-finance and financial regulation. I am also a research and teaching assistant at the Department of Economics.
+I am a PhD student in Economics at [Universitat Pompeu Fabra](https://www.upf.edu/home) interested in international macroeconomics, macro-finance and financial regulation. Particularly, I study how financial and business cycles shape global macroeconomic variables such as interest rates, capital flows, exchange rates, and risk-sharing among countries.
+
+I am also a research and teaching assistant at the Department of Economics.
